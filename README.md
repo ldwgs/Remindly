@@ -2,7 +2,8 @@
 - Change '+' button to hide when scrolling and reappear only when all the way on top of the view
 - Include countdown timer for all reminders
 
-##########################################################################################################################################
+#######################################################################################
+
 
 # Remindly
 Android reminder app
