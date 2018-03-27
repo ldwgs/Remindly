@@ -2,6 +2,10 @@
 - Change '+' button to hide when scrolling and reappear only when all the way on top of the view
 - Include countdown timer for all reminders
 
+## Referenes 
+- APP: https://github.com/blanyal/Remindly
+- Remove Activity Bar: https://www.youtube.com/watch?v=DuCNEnhIw5Y
+
 #######################################################################################
 
 
