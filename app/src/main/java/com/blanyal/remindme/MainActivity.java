@@ -29,6 +29,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -106,6 +108,10 @@ public class MainActivity extends AppCompatActivity {
 
         // Initialize alarm
         mAlarmReceiver = new AlarmReceiver();
+
+        // Hide action bar
+        getSupportActionBar().hide();
+
     }
 
     // Create context menu for long press actions
