@@ -1,6 +1,8 @@
 ## TODO for App
 - Change '+' button to hide when scrolling and reappear only when all the way on top of the view
 - Include countdown timer for all reminders
+- Swipe to delete task 
+- Seperate actions from task and bell for easy disabling of task from home view
 
 ## Referenes 
 - APP: https://github.com/blanyal/Remindly
